@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		30CBB75D29C9952100801A80 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		30CBB75E29C9BB8000801A80 /* public.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = public.sh; sourceTree = "<group>"; };
+		30CBB75E29C9BB8000801A80 /* publish.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = publish.sh; sourceTree = "<group>"; };
 		37202174B0860BFB7F35CA0C /* Pods-YZHBugly_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YZHBugly_Example.debug.xcconfig"; path = "Target Support Files/Pods-YZHBugly_Example/Pods-YZHBugly_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		418BA202704E9BE093769D4E /* Pods-YZHBugly_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YZHBugly_Tests.debug.xcconfig"; path = "Target Support Files/Pods-YZHBugly_Tests/Pods-YZHBugly_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		4834AE558F767B3B83CA0CFC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
@@ -182,7 +182,7 @@
 				7939ACA19B98233F7058ED10 /* YZHBugly.podspec */,
 				EA6EEFC545F5DEA74DCD2395 /* README.md */,
 				4834AE558F767B3B83CA0CFC /* LICENSE */,
-				30CBB75E29C9BB8000801A80 /* public.sh */,
+				30CBB75E29C9BB8000801A80 /* publish.sh */,
 			);
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
