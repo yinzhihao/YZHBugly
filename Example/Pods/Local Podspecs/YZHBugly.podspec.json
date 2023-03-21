@@ -1,0 +1,28 @@
+{
+  "name": "YZHBugly",
+  "version": "0.1.0",
+  "summary": "A short description of YZHBugly.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yinzhihao/YZHBugly",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yinzhihao": "yinzhihao057@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/yinzhihao/YZHBugly.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YZHBugly/Classes/**/*",
+  "static_framework": true,
+  "dependencies": {
+    "Bugly": [
+      "~> 2.3"
+    ]
+  }
+}

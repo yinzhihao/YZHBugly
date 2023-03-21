@@ -1,0 +1,6 @@
+framework module YZHBugly {
+  umbrella header "YZHBugly-umbrella.h"
+
+  export *
+  module * { export * }
+}

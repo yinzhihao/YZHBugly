@@ -1,0 +1,23 @@
+PODS:
+  - Bugly (2.5.93)
+  - YZHBugly (0.1.0):
+    - Bugly (~> 2.3)
+
+DEPENDENCIES:
+  - YZHBugly (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Bugly
+
+EXTERNAL SOURCES:
+  YZHBugly:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Bugly: b8715e6ec4004b7f7fbffab0643ba80545aee3da
+  YZHBugly: 75e8f37c491e26e04227a56fa6bd67dad10f1953
+
+PODFILE CHECKSUM: eb8542dd14624601227d100988244df88dd0790a
+
+COCOAPODS: 1.11.3
