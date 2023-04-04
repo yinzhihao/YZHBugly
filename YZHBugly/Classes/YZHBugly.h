@@ -7,12 +7,12 @@
 
 #import <Foundation/Foundation.h>
 
-//! Project version number for AFNetworking.
-FOUNDATION_EXPORT double AFNetworkingVersionNumber;
+//! Project version number for YZHBugly.
+FOUNDATION_EXPORT double YZHBuglyVersionNumber;
 
-//! Project version string for AFNetworking.
-FOUNDATION_EXPORT const unsigned char AFNetworkingVersionString[];
+//! Project version string for YZHBugly.
+FOUNDATION_EXPORT const unsigned char YZHBuglyVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <AFNetworking/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like #import <YZHBugly/PublicHeader.h>
 
 #import <YZHBugly/YZHBuglyUtils.h>
